@@ -1,12 +1,12 @@
 {
-  "name": "goodizer/yii2-websocket",
-  "description": "Components for Yii2.",
+  "name": "dgoriaev/yii2-websocket",
+  "description": "Components for Yii2. Fork for php >= 8.0",
   "keywords": [
     "yii2",
     "websocket",
     "components"
   ],
-  "homepage": "https://github.com/goodizer/yii2-websocket",
+  "homepage": "https://github.com/DplusG/yii2-websocket",
   "type": "yii2-components",
   "license": "MIT",
   "authors": [
@@ -14,11 +14,15 @@
       "name": "Alexey Veretelnik",
       "email": "alex.in.development@gmail.com",
       "homepage": "https://github.com/goodizer/yii2-websocket"
+    },
+    {
+      "name": "Dmitriy Goriaev",
+      "email": "goriaev.dm.v@gmail.com"
     }
   ],
   "support": {
-    "issues": "https://github.com/goodizer/yii2-websocket/issues",
-    "source": "https://github.com/goodizer/yii2-websocket"
+    "issues": "https://github.com/DplusG/yii2-websocket/issues",
+    "source": "https://github.com/DplusG/yii2-websocket"
   },
   "autoload": {
     "psr-4": {
